@@ -1,0 +1,88 @@
+@charset "ISO-8859-1";
+/* .calendar {
+      display: table;
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+.calendar-row {
+      display: table-row;
+    }
+
+.calendar-day {
+      display: table-cell;
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: center;
+      cursor: pointer;
+    }
+
+.calendar-day:hover {
+      background-color: #f0f0f0;
+    }
+
+.title-vertical-text {
+  	white-space: nowrap;
+    width:100vw;
+    padding: 20px;
+    font-size: 62px !important;
+} */
+
+/* header .timesheetTitle {
+	  font-size: 70px;
+	  font-weight: 600;
+	  background-image: linear-gradient(to left, #21A395, #EADD82, #3279BD, #A32726);
+	  color: transparent;
+	  background-clip: text;
+	  margin-bottom:40px;
+	  -webkit-background-clip: text;
+	} */
+	
+.block:hover {
+            background-color: #e2e6ea;
+        }
+.table-calendar td {
+        text-align: center;
+        vertical-align: middle;
+        font-size: 20px;
+    }
+
+.block {
+		text-align: center;
+        vertical-align: middle;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        cursor: pointer;
+        margin: auto;
+    }
+
+.box {
+	  margin-left: 10px;
+	  background-color: yellow;
+	  width: 30px; /* Adjust the width as needed */
+	  height: 30px; /* Adjust the height as needed */
+	  border-radius: 10px;
+	  display: inline-block;
+	  border-style: solid;
+      border-width: 2px;
+}
+
+.box-text {
+	  margin-left:4px;
+	  display: inline-block;
+	  margin-top: 6px;
+}
+
+/* .input-field {
+	width:80px;
+} */
+/* #reportUserMonthWiseEffortPieChart{
+	margin-top: 80px;
+	
+} */
+
+.chart{
+	display: flex;
+	justify-content: center;
+}

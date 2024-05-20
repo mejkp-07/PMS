@@ -1,0 +1,10 @@
+.chart-container {
+        margin-bottom: 20px; /* Adjust the margin as needed */
+    }
+
+    
+.chart {
+    border: 5px solid #000000; /* Add a border for better visibility */
+    padding: 10px; /* Add padding for better spacing */
+    margin-bottom: 20px; /* Adjust the margin as needed */
+}
